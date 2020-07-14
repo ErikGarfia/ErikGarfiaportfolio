@@ -1,0 +1,56 @@
+{
+    "backgroundType": "gradient",
+    "plainBackgroundMode": "daylight",
+    "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+    "FirstName": "Erik",
+    "MiddleName": "",
+    "LastName": "Garfia",
+    "devDesc": "| Programmer | Web Developer | Software Developer | Engineer | Student ",
+    "icons": [
+      {
+        "id": 0,
+        "image": "fa-github",
+        "url": "https://github.com/ErikGarfia/",
+        "style": "socialicons"
+      },
+      {
+        "id": 1,
+        "image": "fa-facebook",
+        "url": "https://www.facebook.com/profile.php?id=100007104889288",
+        "style": "socialicons"
+      },
+      {
+        "id": 2,
+        "image": "fa-instagram",
+        "url": "https://www.instagram.com/erik_ga_",
+        "style": "socialicons"
+      },
+      {
+        "id": 3,
+        "image": "fa-linkedin",
+        "url": "www.linkedin.com/in/erik-garfia-acevedo-ipn",
+        "style": "socialicons"
+      },
+      {
+        "id": 4,
+        "image": "fa-twitter",
+        "url": "https://twitter.com/GarfiaErik",
+        "style": "socialicons"
+      }
+    ],
+    "aboutHeading": "About Me",
+    "showInstaProfilePic": true,
+    "instaLink": "https://www.instagram.com/",
+    "instaUsername": "erik_ga_",
+    "instaQuerry": "/?__a=1",
+    "aboutDescription": "I am a Computer Sytems Engineer. Currently, I study at ESCOM from IPN with experience in web development and software development. I am an interdisciplinary programmer working at the crossroads of technology. I love working with passionate and enthusiastic people, always trying to solve any kind of problem. I'm passionate about learning techologies related with programming in general, cloud computing and machine learning",
+    "projectHeading": "My Recent Projects",
+    "gitHubLink": "https://api.github.com/users/",
+    "gitHubUsername": "ErikGarfia",
+    "gitHubQuerry": "/repos?sort=updated&direction=desc",
+    "projectsLength": 4,
+    "showNavigationbar": true,
+    "showBlog": false,
+    "courseHeading": "My Certifications"
+  }
+  
