@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ErikGarfiaportfolio/static/css/main.9eb532eb.chunk.css",
-    "main.js": "/ErikGarfiaportfolio/static/js/main.7f9ec865.chunk.js",
-    "main.js.map": "/ErikGarfiaportfolio/static/js/main.7f9ec865.chunk.js.map",
+    "main.js": "/ErikGarfiaportfolio/static/js/main.05e77f23.chunk.js",
+    "main.js.map": "/ErikGarfiaportfolio/static/js/main.05e77f23.chunk.js.map",
     "runtime-main.js": "/ErikGarfiaportfolio/static/js/runtime-main.754109d2.js",
     "runtime-main.js.map": "/ErikGarfiaportfolio/static/js/runtime-main.754109d2.js.map",
     "static/css/2.af3c1da9.chunk.css": "/ErikGarfiaportfolio/static/css/2.af3c1da9.chunk.css",
     "static/js/2.4eabe596.chunk.js": "/ErikGarfiaportfolio/static/js/2.4eabe596.chunk.js",
     "static/js/2.4eabe596.chunk.js.map": "/ErikGarfiaportfolio/static/js/2.4eabe596.chunk.js.map",
     "index.html": "/ErikGarfiaportfolio/index.html",
-    "precache-manifest.3689ba11049c4427b3eb1b68985a298d.js": "/ErikGarfiaportfolio/precache-manifest.3689ba11049c4427b3eb1b68985a298d.js",
+    "precache-manifest.04aac5c7d381f3fa47e5ce8b12f65962.js": "/ErikGarfiaportfolio/precache-manifest.04aac5c7d381f3fa47e5ce8b12f65962.js",
     "service-worker.js": "/ErikGarfiaportfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/ErikGarfiaportfolio/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.9eb532eb.chunk.css.map": "/ErikGarfiaportfolio/static/css/main.9eb532eb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.4eabe596.chunk.js",
     "static/css/main.9eb532eb.chunk.css",
-    "static/js/main.7f9ec865.chunk.js"
+    "static/js/main.05e77f23.chunk.js"
   ]
 }
