@@ -48,7 +48,7 @@
     "gitHubLink": "https://api.github.com/users/",
     "gitHubUsername": "ErikGarfia",
     "gitHubQuerry": "/repos?sort=updated&direction=desc",
-    "projectsLength": 4,
+    "projectsLength": 8,
     "showNavigationbar": true,
     "showBlog": false,
     "courseHeading": "My Certifications"
